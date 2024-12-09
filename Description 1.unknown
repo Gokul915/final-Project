@@ -1,0 +1,8 @@
+Package: mathTools
+Type: Package
+Title: Statistical Tools for Numeric Data
+Version: 0.1.0
+Author: gokulkrishnak@usf.edu
+Maintainer: Gokul <gokulkrishnak@usf.edu>
+Description: A package with tools for statistical calculations, including computing summary statistics for numeric data.
+License: What license it uses
